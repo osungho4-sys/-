@@ -1,0 +1,18 @@
+:root { font-family: Inter, system-ui, Arial, sans-serif; color: #fff; background: #101820; }
+body, html, #root { margin: 0; width: 100%; height: 100%; }
+.app { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 12px; }
+canvas { max-width: 96vw; border: 3px solid #eee; border-radius: 8px; touch-action: none; }
+.hud { display: flex; gap: 16px; flex-wrap: wrap; font-weight: 700; }
+.help { opacity: .9; font-size: 14px; }
+.result { background: rgba(0,0,0,.65); padding: 10px 16px; border-radius: 8px; }
+.selector-grid { display: grid; grid-template-columns: repeat(3, minmax(180px,1fr)); gap: 10px; width: min(920px, 95vw); }
+.sel { background: #1f2b3f; border: 2px solid #446; color: #fff; border-radius: 10px; padding: 12px; }
+.sel.active { border-color: #ffd166; }
+.difficulty, .start { display:flex; gap:8px; }
+.mobile-controls { width: min(1000px, 96vw); display: flex; justify-content: space-between; align-items: flex-end; margin-top: 8px; }
+.joystick { width: 132px; height: 132px; border-radius: 999px; border: 2px solid #ddd; position: relative; background: rgba(255,255,255,0.1); }
+.joystick-knob { width: 58px; height: 58px; border-radius: 50%; background: #fff; position: absolute; left: 37px; top: 37px; }
+.mobile-buttons { display: grid; grid-template-columns: repeat(3, 90px); gap: 10px; }
+.btn { height: 64px; border: none; border-radius: 14px; font-weight: 800; font-size: 15px; }
+.btn.pass { background: #ffd166; } .btn.shoot { background: #ff6b6b; color: #fff; } .btn.sprint { background: #4cc9f0; }
+@media (max-width: 700px) { .mobile-buttons { grid-template-columns: repeat(3, 80px);} .btn { height: 58px; font-size: 14px;} .joystick{width:120px;height:120px;} }
