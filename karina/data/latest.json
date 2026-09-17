@@ -1,6 +1,39 @@
 {
-  "updated_at": null,
-  "items": [],
+  "updated_at": "2026-09-17T00:00:00+00:00",
+  "items": [
+    {
+      "title": "KARINA가 브랜드 앰버서더를 맡고 있는 MARK & LONA의 2026 Autumn/Winter 신규 비주얼 공개",
+      "url": "https://aespa-official.jp/news/mark-lona-2026/",
+      "published": "2026-09-09",
+      "source": "aespa Japan Official",
+      "kind": "official",
+      "kind_label": "공식"
+    },
+    {
+      "title": "aespa’s Karina Opens Up About Lollapalooza 2026, Embracing Nervousness On Stage, And More",
+      "url": "https://www.soompi.com/article/1863634wpp/aespas-karina-opens-up-about-lollapalooza-2026-embracing-nervousness-on-stage-and-more",
+      "published": "2026-08-18",
+      "source": "Soompi / ELLE Korea",
+      "kind": "news",
+      "kind_label": "인터뷰"
+    },
+    {
+      "title": "aespa on Lollapalooza, Lemonade, and the reality of K-pop idoldom",
+      "url": "https://www.thefader.com/2026/08/10/aespa-lollapalooza-lemonade-favorite-music-interview",
+      "published": "2026-08-10",
+      "source": "The FADER",
+      "kind": "news",
+      "kind_label": "인터뷰"
+    },
+    {
+      "title": "KARINA가 MARK & LONA 브랜드 역사상 첫 여성 브랜드 앰버서더로 선정",
+      "url": "https://aespa-official.jp/news/karina-markandlona/",
+      "published": "2026-04-27",
+      "source": "aespa Japan Official",
+      "kind": "official",
+      "kind_label": "공식"
+    }
+  ],
   "collector": "GitHub Actions · free RSS/official feeds",
   "version": 3
 }
