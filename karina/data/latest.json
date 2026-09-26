@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-25T03:52:37.315619+00:00",
+  "updated_at": "2026-09-26T03:57:40.322718+00:00",
   "items": [
+    {
+      "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - 미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81WXlLTERRYnptOG5oc2FocjM4TktzT3NnMTktTldnQ1UyT0xrX1M0djlKeTBHS0NUaDJTUTRVYmo4clh3bVZJckV1bEdrR2NtRjRTSTk0Z1Rpc1JNa19McXRn?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "미주중앙일보",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
     {
       "title": "에스파 '카리나', 인천국제공항 출국✈️aespa KARINA ICN Airport Departure 2026.8.27 Newsen - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xdkx1UG9paW9PRlEwdHNXQVc3NnJfdy1WVGtla1k0dXk5YzZOMnk5QmpraGs0NWdJSTVBN3Q3YlpwOC05aHBwQzVqOElvbG9ZNFNKRVlVeFpzUW1p?oc=5",
@@ -14,14 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6YXl3bktlRnhZMVZfM0dBOG1XT05OaUlzeXRvLU1XOS1LZmxjdzlFRG1WOGlpWHhfZmpON1l6cll3eEw0MjBLNWZkRjZrejNLb2pnWWYtR1pxeUZCM0hZbXc0SkhzcXVVZ085WUxQbw?oc=5",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT",
       "source": "starnewskorea.com",
-      "kind": "news",
-      "kind_label": "뉴스"
-    },
-    {
-      "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - 미주중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81WXlLTERRYnptOG5oc2FocjM4TktzT3NnMTktTldnQ1UyT0xrX1M0djlKeTBHS0NUaDJTUTRVYmo4clh3bVZJckV1bEdrR2NtRjRTSTk0Z1Rpc1JNa19McXRn?oc=5",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "source": "미주중앙일보",
       "kind": "news",
       "kind_label": "뉴스"
     },
@@ -218,10 +218,10 @@
       "kind_label": "뉴스"
     },
     {
-      "title": "K-POP 슈퍼스타 KARINA, Converse 패밀리 합류 - Hypebae",
+      "title": "K-POP 슈퍼스타 KARINA, Converse 패밀리 합류 - hypebae.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjJWOVlFREhyOWpwUHpPdXpCQkJXcll1TEJVT0V3c1gybzlIRlhSLVdJOGtSMUVhbm1NcE02ZEJNT2daakYtZFdHb2RTU0xjMS1fTGt0M3U4YXRiU3NUajZEc1RmOTJIQUNKV0ptZUFvQnFUM213NlRaOUhqQ1oyRXF4a0pnQlNsT2FCUmgzYXBVdEJDemE1SFZQXzc3V25vZlo5aUxMTWo?oc=5",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "source": "Hypebae",
+      "source": "hypebae.com",
       "kind": "news",
       "kind_label": "뉴스"
     },
@@ -316,7 +316,7 @@
     {
       "title": "aespa KARINA (에스파 카리나) - 16bit [SYNK : COMPLæXITY] [Mexico City] [4K] [260911] - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pV3pnVk8zRG1JY05naVAza3pHdmVSc09xRkZGcmlKcEZKSzlwUGswVnhnUHl3NVEzbGw5NjlXSEVBWXRXd1kzUzk5SW9OUThmR1l3RWE0ZVZBQkoz?oc=5",
-      "published": "Sat, 12 Sep 2026 19:25:52 GMT",
+      "published": "Sat, 12 Sep 2026 07:00:00 GMT",
       "source": "YouTube",
       "kind": "news",
       "kind_label": "뉴스"
@@ -398,6 +398,14 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TQ0tDZWk4RDFZYzMzNFV4U1FhN2ZWSHk3ZGdZdnZHQXVGbHgwM242YUdSeUl4Sk16eTR3WmhIU2ppUVZJdUpMVTBPcTUxaHdJbUJBQUpIbnhyaFlS?oc=5",
       "published": "Mon, 01 Jun 2026 03:30:32 GMT",
       "source": "Weverse",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
+      "title": "Has reverse virality latched onto the ‘KKK ad controversy’ around aespa member Karina? - 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMm8wekpfSGFWd0RrQ3k1bmdBMzFxTjFGTjU4LVBwV0IyS0x0RXNQU1BET0JmVUJXVWlmUlpFVTJzdFVjMTQwd1JVWHE5bVRmeXBLYXpIQ2tONkZRUWNHRURB?oc=5",
+      "published": "Fri, 25 Sep 2026 02:05:00 GMT",
+      "source": "스포츠경향",
       "kind": "news",
       "kind_label": "뉴스"
     },
