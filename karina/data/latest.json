@@ -1,11 +1,19 @@
 {
-  "updated_at": "2026-10-04T04:45:00.298046+00:00",
+  "updated_at": "2026-10-05T04:33:15.480167+00:00",
   "items": [
     {
       "title": "[SEOUL SYNDROME] Main Film 1 | KARINA, WINTER of aespa - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VaFBsV3NDamJpWS15UklNb3diSWEyLV9LX3kwYkZJVjlRSUp0Vm1GalJNLVZDNWVGUlM1VVJPMGZpUllfV0N6bC1kXzNENGVYeEl3OW5fSS0wS29D?oc=5",
       "published": "Wed, 30 Sep 2026 05:00:27 GMT",
       "source": "YouTube",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
+      "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RV016X1BhMFplUklvU0h0akhqZHAtcjd0dmk4S3FLV1MtVGFDVDRkRUFtUkl5Q1ljRG85NU9SeDRUYXhCdEhqTXZhTW53OGx1YUhJ?oc=5",
+      "published": "Wed, 26 Aug 2026 23:29:00 GMT",
+      "source": "네이트",
       "kind": "news",
       "kind_label": "뉴스"
     },
@@ -38,6 +46,14 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRVWdhRm41R3hEU2NFdFNBX3puR1NYR090Q2Z3aWNmVmpuQ1RHd2p6ckVlNzVEcDJtQ3QxMVdfWlkweUkzQXhVSDRJZWR3WHZQN0ZXVFFCMjVlTUhGaHlKMEJFOGtuZw?oc=5",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT",
       "source": "starnewskorea.com",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
+      "title": "굿나잇 - Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCaGJyWUU2NlpFN3R5V3h3c2FaNmhNaUdGMl90UF85X0sxU3NZMmlWZlFMeWp5ZXV5Q2lXcFlScV9welYzd1AxYUpsXzgwdkdKQTJ3?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "source": "Weverse",
       "kind": "news",
       "kind_label": "뉴스"
     },
@@ -117,14 +133,6 @@
       "title": "Imagen de aespa de Weverse - #2026.03.24 #KARINA #MEMORY BOX - Weverse",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43WEQtd3FhdVA3dHNGOVR4cENTVm9BcU1XSEhvTHg5ZEZfTS1nLWlzSUJxdmM3ajVuZzU5SktoTkhsV3JYdTNkYmM1Mm1WdGQ0bU42TV9sYlBEOEFm?oc=5",
       "published": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "source": "Weverse",
-      "kind": "news",
-      "kind_label": "뉴스"
-    },
-    {
-      "title": "굿나잇 - Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCaGJyWUU2NlpFN3R5V3h3c2FaNmhNaUdGMl90UF85X0sxU3NZMmlWZlFMeWp5ZXV5Q2lXcFlScV9welYzd1AxYUpsXzgwdkdKQTJ3?oc=5",
-      "published": "Tue, 22 Sep 2026 16:06:31 GMT",
       "source": "Weverse",
       "kind": "news",
       "kind_label": "뉴스"
@@ -629,14 +637,6 @@
       "title": "i like everything #aespa #æspa #에스파 #NINGNING #닝닝",
       "url": "https://www.youtube.com/watch?v=Dj-BdQotxyQ",
       "published": "2026-09-12T07:02:22+00:00",
-      "source": "aespa Official YouTube",
-      "kind": "youtube",
-      "kind_label": "YouTube"
-    },
-    {
-      "title": "2026-27 aespa LIVE TOUR - SYNK : COMPLæXITY - Recap Video",
-      "url": "https://www.youtube.com/watch?v=gZHPaNoJhuQ",
-      "published": "2026-09-12T00:02:22+00:00",
       "source": "aespa Official YouTube",
       "kind": "youtube",
       "kind_label": "YouTube"
