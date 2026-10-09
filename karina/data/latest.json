@@ -1,11 +1,19 @@
 {
-  "updated_at": "2026-10-08T04:58:18.101744+00:00",
+  "updated_at": "2026-10-09T05:01:12.276581+00:00",
   "items": [
     {
       "title": "[SEOUL SYNDROME] Main Film 1 | KARINA, WINTER of aespa - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VaFBsV3NDamJpWS15UklNb3diSWEyLV9LX3kwYkZJVjlRSUp0Vm1GalJNLVZDNWVGUlM1VVJPMGZpUllfV0N6bC1kXzNENGVYeEl3OW5fSS0wS29D?oc=5",
       "published": "Wed, 30 Sep 2026 05:00:27 GMT",
       "source": "YouTube",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
+      "title": "安 (@ann14aaa) on X - Howl.link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBSNWNvV3pTTjFYNnQ1akJQR2l3QmF4YlhYXzF5WmZVR0wtVjlUc0pPSUNHMmFENEZNY29r?oc=5",
+      "published": "Wed, 30 Sep 2026 03:34:08 GMT",
+      "source": "Howl.link",
       "kind": "news",
       "kind_label": "뉴스"
     },
@@ -186,6 +194,14 @@
       "kind_label": "뉴스"
     },
     {
+      "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0tMaVdWMnVVSXU3SWZMc05pWE1TcHJQNnRBODJ1aVBSWWtLMjFoUWF0UDllNl9JdHVELW1vRjVpWVNkaEE4OTlxYWFVQWxiZ3hobldGUWZTMWFCMXkzNjJYSlUwU1Nfei1tUnhkZlZvb3JwTlhwRlpoZWpSdVg5RkdHb0RVT0syWEpFSEpRYw?oc=5",
+      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": "조선일보",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
       "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - OSEN",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLczdiSE9IbE0wb3I5YjR3WHhqNm1YNkFxVm81Tk5vcVI4ZHpuSFYtZ09nRFI5WnJycG9ZajlfODhVcHp1SDBtUFQtalVTT2IxeHFCWg?oc=5",
       "published": "Thu, 27 Aug 2026 07:00:00 GMT",
@@ -198,14 +214,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RV016X1BhMFplUklvU0h0akhqZHAtcjd0dmk4S3FLV1MtVGFDVDRkRUFtUkl5Q1ljRG85NU9SeDRUYXhCdEhqTXZhTW53OGx1YUhJ?oc=5",
       "published": "Thu, 27 Aug 2026 07:00:00 GMT",
       "source": "네이트",
-      "kind": "news",
-      "kind_label": "뉴스"
-    },
-    {
-      "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0tMaVdWMnVVSXU3SWZMc05pWE1TcHJQNnRBODJ1aVBSWWtLMjFoUWF0UDllNl9JdHVELW1vRjVpWVNkaEE4OTlxYWFVQWxiZ3hobldGUWZTMWFCMXkzNjJYSlUwU1Nfei1tUnhkZlZvb3JwTlhwRlpoZWpSdVg5RkdHb0RVT0syWEpFSEpRYw?oc=5",
-      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "source": "조선일보",
       "kind": "news",
       "kind_label": "뉴스"
     },
@@ -629,14 +637,6 @@
       "title": "click once to repeat #aespa #æspa #에스파 #KARINA #카리나 #16Bit #SYNK_COMPLaeXITY #aespa_SYNK_COMPLaeXITY",
       "url": "https://www.youtube.com/watch?v=zEmXCh0p0_8",
       "published": "2026-09-15T04:31:45+00:00",
-      "source": "aespa Official YouTube",
-      "kind": "youtube",
-      "kind_label": "YouTube"
-    },
-    {
-      "title": "wait i forgot my color #aespa #æspa #에스파 #KARINA #카리나 #GISELLE #지젤",
-      "url": "https://www.youtube.com/watch?v=HTHaodin2gs",
-      "published": "2026-09-13T11:01:29+00:00",
       "source": "aespa Official YouTube",
       "kind": "youtube",
       "kind_label": "YouTube"
