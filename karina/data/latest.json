@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T03:27:50.894107+00:00",
+  "updated_at": "2026-10-19T03:39:49.407980+00:00",
   "items": [
     {
       "title": "[SEOUL SYNDROME] Main Film 1 | KARINA, WINTER of aespa - YouTube",
@@ -210,10 +210,10 @@
       "kind_label": "뉴스"
     },
     {
-      "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - 네이트",
+      "title": "앞머리를 잘라도 AI 미모, 에스파 카리나 (aespa KARINA) [O! STAR 숏폼] - Nate News",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RV016X1BhMFplUklvU0h0akhqZHAtcjd0dmk4S3FLV1MtVGFDVDRkRUFtUkl5Q1ljRG85NU9SeDRUYXhCdEhqTXZhTW53OGx1YUhJ?oc=5",
       "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "source": "네이트",
+      "source": "Nate News",
       "kind": "news",
       "kind_label": "뉴스"
     },
@@ -229,6 +229,14 @@
       "title": "MY들이 굉장히 좋아할 것 같은데!🥰 | aespa 에스파 'Serenade KARINA & WINTER' Recording Behind - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WUXhOQXFUaFJaRkZteDBBQV91dXRZdGpHN1FkTkxoaHJTa1pSZVRKQ2FwNi02NmZHOFJsTm1QeXo5RExCcjl2R3JHNkVWYWxEWkpZY0hPdi1hb0N0?oc=5",
       "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": "YouTube",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
+      "title": "[ae:scenes] 오늘 컨디션 어때?🔋 | 에스파 카리나 컨디션 비하인드 (aespa KARINA Condition Behind) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoUjZPZmN5SWFlQS13cEVjOHVkZGhLYVVZWFd6cV9WVENuV1VDSk1CYWFwN1g0NUQzWV9Ba3dfV1BqX3NyVThjdDJTVERDN3BtMEFnMlhuYzdsMVg0?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
       "source": "YouTube",
       "kind": "news",
       "kind_label": "뉴스"
@@ -349,6 +357,14 @@
       "title": "위버스 aespa 이미지 - aespa 에스파 ‘WDA' The Crea - Weverse",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JZTlySVF5T2N3Ym1zOGNhSmw1R2VjZEhZVWlBSmM5Z3Z1UDhvanIwQVNKVGswWXQteUVEWnU1THVVMTVaSWxHTndIcUl4SF82a08wekl3TXhfS2Jr?oc=5",
       "published": "Sun, 03 May 2026 17:10:01 GMT",
+      "source": "Weverse",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
+      "title": "Weverseaespa圖片 - aespa 에스파 ‘WDA' The Cre - Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXRmtOOGRNWnlsejJ0Q19KdVhKQkZXVEM4VFRsdzIzZE51cUk4akwyM2Z6XzZzLWhubVRQYkg1cTdMeEkzVDNxNnVHOVNjVnF0eHRUYVdXWjZoSDFIcFItVw?oc=5",
+      "published": "Sun, 03 May 2026 16:28:46 GMT",
       "source": "Weverse",
       "kind": "news",
       "kind_label": "뉴스"
@@ -621,22 +637,6 @@
       "title": "i'm gonna need some more #aespa #GISELLE #BYEB4HELLO #SYNK_COMPLaeXITY #aespa_SYNK_COMPLaeXITY",
       "url": "https://www.youtube.com/watch?v=pTxyYcbFGNA",
       "published": "2026-09-18T07:31:21+00:00",
-      "source": "aespa Official YouTube",
-      "kind": "youtube",
-      "kind_label": "YouTube"
-    },
-    {
-      "title": "don't be shy #aespa #æspa #에스파 #WINTER #윈터 #SaddleUp #SYNK_COMPLaeXITY #aespa_SYNK_COMPLaeXITY",
-      "url": "https://www.youtube.com/watch?v=XSSBBv4Z_hI",
-      "published": "2026-09-17T08:31:33+00:00",
-      "source": "aespa Official YouTube",
-      "kind": "youtube",
-      "kind_label": "YouTube"
-    },
-    {
-      "title": "bowww #aespa #æspa #에스파 #KARINA #카리나",
-      "url": "https://www.youtube.com/watch?v=u-E6dncBC0g",
-      "published": "2026-09-17T08:01:20+00:00",
       "source": "aespa Official YouTube",
       "kind": "youtube",
       "kind_label": "YouTube"
