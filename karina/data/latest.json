@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T07:10:19.852286+00:00",
+  "updated_at": "2026-11-28T06:43:02.936616+00:00",
   "items": [
     {
       "title": "[SEOUL SYNDROME] Main Film 1 | KARINA, WINTER of aespa - YouTube",
@@ -306,14 +306,6 @@
       "kind_label": "뉴스"
     },
     {
-      "title": "[4K] 260324 aespa Karina - 愛你但說不出口 FANCAM | aespa〈Karina B-Day Party〉IN SEOUL - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMFNydkRRYXNvSzd6Nm5MTU4zeFl4M0hsOU1SVDVmYnF0UnJPWWNpdE5fclNRTnppa2k1TXJGNWZteDV5Tzg2dFE2b1B2SUJGa2NYYXFjQTRNS0ZG?oc=5",
-      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "source": "YouTube",
-      "kind": "news",
-      "kind_label": "뉴스"
-    },
-    {
       "title": "2026 KARINA B-DAY PARTY MEMORY BOX - Weverse",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTXIwcTFZZUIyUlI3ampmZ2JVVERkOHBMYm4yZkFnZXNrdC1MeEJjQVlKVE1nZ3NPd3gyUUpDc29UNGRQNTBVYmpsRnFPVXNlU3FHdUdRMktkM1U?oc=5",
       "published": "Tue, 24 Mar 2026 07:00:00 GMT",
@@ -334,6 +326,14 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43WEQtd3FhdVA3dHNGOVR4cENTVm9BcU1XSEhvTHg5ZEZfTS1nLWlzSUJxdmM3ajVuZzU5SktoTkhsV3JYdTNkYmM1Mm1WdGQ0bU42TV9sYlBEOEFm?oc=5",
       "published": "Tue, 24 Mar 2026 07:00:00 GMT",
       "source": "Weverse",
+      "kind": "news",
+      "kind_label": "뉴스"
+    },
+    {
+      "title": "[4K] 260324 aespa Karina - 愛你但說不出口 FANCAM | aespa〈Karina B-Day Party〉IN SEOUL - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMFNydkRRYXNvSzd6Nm5MTU4zeFl4M0hsOU1SVDVmYnF0UnJPWWNpdE5fclNRTnppa2k1TXJGNWZteDV5Tzg2dFE2b1B2SUJGa2NYYXFjQTRNS0ZG?oc=5",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "source": "YouTube",
       "kind": "news",
       "kind_label": "뉴스"
     },
